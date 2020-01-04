@@ -22,3 +22,6 @@ Dito isto, existem alguns pontos que gostaria de discutir e saber a opinião de 
 17) Acham que deve existir um conselho diretor para coordenação e direção do projeto que alterne dentro de X tempos, ou que todos COLABORADORES tenham iguais poderes na condução do projeto?
 
 Por enquanto, consegui pensar apenas nesses pontos que julgo essenciais para que o projeto possa ser criado e devidamente conduzido para que tenha sucesso e dure muito tempo. Se alguém tiver mais algum tópico a ser discutido, por favor, manifeste-se seguindo a numeração dos tópicos aqui estabelecido
+
+
+texto by @souzalucy
