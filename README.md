@@ -9,7 +9,7 @@ Repo para guardarmos todas as nossas pautas e atas de reuniões feitas.
 
 - Cada reunião deve ser armazenada em uma nova pasta;
 
-- Cada pasta de reunião deve ser nomeada com a data de criação seguindo o seguinte padrão: "`R_dd-mm-aa/Pauta.md`";
+- Cada pasta de reunião deve ser nomeada com a data de criação seguindo o seguinte padrão: "`R_aa-mm-dd/Pauta.md`";
 
   - Este comando cria uma nova pasta com o arquivo da pauta
 
